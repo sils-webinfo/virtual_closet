@@ -18,14 +18,14 @@
 * description: Details of the item
 * allitems: The list of all items in the global inventory collection
 * myitems: The list of all items in the user's closet
-* 
+
 #Name Attribute Values#
 * item[ID]: Unique identifier for each item
 * item[title]: Brief title for the item; applied to an INPUT[text] element
 * item[designer]: The designer of the item; applied to an INPUT[text] element
 * item[color]: The color of the item; applied to an INPUT[text] element
 * item[description]: Description of the item; applied to a TEXTAREA element
-* 
+
 #Rel Attribute Values#
 * Item: Link to a particular item; applied to an 'a href' tag
 * Designer: Link to a designer's home page; applied to an 'a href' tag
