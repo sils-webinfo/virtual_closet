@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<div id="users">
+<li hidden>ID:<id name=userid"></li>
+<li>User Name:<id name="username"></li>
+</div>
+
+</body>
+</html>
