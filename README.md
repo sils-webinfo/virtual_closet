@@ -1,7 +1,7 @@
 #Virtual Closet#
 
 * This service is a digital closet for users to record their articles of clothing. Article of clothing are added by users, assigned a unique identifier, and are then globally accessible by all other users. In order to add an item into the global and their personal collection, the user must identify, at a minimum, the title, designer, and color. Users will want to search the collection based on any number of factors that include the type of article, designer or color.
-* 
+
 #ID Attribute Values#
 * Add Item: Add article of clothing to your collection. Applied to a FORM to create a new entry.
 * Add New to The Inventory: Add a new article to the global inventory.
