@@ -1,12 +1,11 @@
 <html>
 <body>
 
-</form>
-  <b>Add new User:</b><form method="POST" action="/user/{uniformTitle}">
-		Username: <input name="username" type="text" /> <br />
-		Password: <input name="password" type="text" />
-		<br />
-		<input type="submit" />
+<form>
+  <form method="POST" action="/users/{uniform title}">
+	Username: <input name="username" type="text"/> <br/>
+	Password: <input name="password" type="text"/> <br/>
+	<input type="submit"/>
 </form>
 
 </body>
