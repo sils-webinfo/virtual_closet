@@ -1,0 +1,13 @@
+<html>
+<body>
+
+<div id="itemtextinventory">
+<li hidden>ID:<id name=itemid"></li>
+<li>Titls:<id name="title"></li>
+<li>Description:<id name="description"></li>
+<li>Designer:<id name="designer"></li>
+<li>Color:<id name="color"></li>
+</div>
+
+</body>
+</html>
