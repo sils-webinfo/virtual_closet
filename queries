@@ -1,0 +1,33 @@
+<html>
+<body>
+
+<form method="post" action="http://virtual_closet.com/find?q={item}">
+<br>Designer:<input text="designer" />
+<br>Color:<input text="color" />
+<br><input type="submit"/>
+</form>
+
+
+<form name="searchcloset" action="http://digitalcloset.com/find?q{title}">
+  <input name="search-title" value=""/>
+	<input type="submit"/>
+</form>
+
+<ul class="queries">
+	<li class="query"><a href="http://digitalcloset.com/mycloset" rel="myitems">My Closet</a></li>
+	<li class="query"><a href="http://digitalcloset.com" rel="allitems">All Items</a></li>
+</ul>	
+
+<form method="post" action="http://digitalcloset.com/find?q={item}">
+<br>Designer:<input text="designer" />
+<br>Color:<input text="color" />
+<br><input type="submit"/>
+</form>
+
+<form name="searchinventory" action="http://digitalcloset.com/find?q={title}">
+	<input name="search-title" value=""/>
+	<input type="submit"/>
+</form>
+
+</body>
+</html>
