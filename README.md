@@ -4,7 +4,6 @@ This service is a digital closet for users to record their articles of clothing.
 
 #ID Attribute Values#
 * Add Item: Add article of clothing to your collection. Applied to a FORM to create a new entry.
-* Add New to The Inventory: Add a new article to the global inventory.
 * Search My Closet: Query used to locate an item in your closet. Applied to a FORM to search.
 * Search The Inventory: Query the global inventory collection to locate an item. Applied to a FORM for search.
 * Update Item: Use a FORM to update an existing item in your closet.
