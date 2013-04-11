@@ -1,8 +1,8 @@
 <html>
 <body>
 
-<div id="itemtextinventory">
-<li hidden><id name=itemid"></li>
+<div id="article">
+<li hidden><id name=articleid"></li>
 <id name="title"></li>
 <id name="description"></li>
 <id name="designer"></li>
