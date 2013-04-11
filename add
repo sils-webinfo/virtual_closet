@@ -8,5 +8,13 @@
 	<input type="submit"/>
 </form>
 
+<form>
+  <form method="POST" action="/articles/">
+	<input title="title" type="text"/> <br/>
+	<input designer="designer" type="text"/> <br/>
+	<input color="color" type="text"/> <br/>
+	<input type="submit"/>
+</form>
+
 </body>
 </html>
